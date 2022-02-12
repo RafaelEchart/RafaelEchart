@@ -11,8 +11,6 @@
 ✉️ &nbsp;You can email me at rafaelechartsaltos@gmail.com. I'll love to hear about you!\
 📄 &nbsp;You can check my [Resume](https://docs.google.com/document/d/1nJtmAZaNgOHQ-CTyDJ-uZC1pWcabwXqWfcmarCVyFk4/edit?usp=sharing) for more details about work experience and skills.
 
-Want to know more about me? [Check out my portfolio.](https://github.com/RafaelEchart?tab=repositories)
-
 
 ### 🛠 &nbsp;Tech Stack
 
