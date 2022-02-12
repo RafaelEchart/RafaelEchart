@@ -49,4 +49,4 @@ Want to know more about me? [Check out my portfolio.](https://github.com/RafaelE
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=blue&color=1CA2F1)](https://twitter.com/rafaelechart)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/rafaelechart/)
 [![Gmail Bagde](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rafaelechartsaltos@gmail.com)
-[![Whatsapp Bagde](https://img.shields.io/badge/Whatsapp-00FF00?style=flat&logo=whatsapp&logoColor=white)](mailto:rafaelechartsaltos@gmail.com)
+[![Whatsapp Bagde](https://img.shields.io/badge/Whatsapp-00FF00?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/593990287938)
