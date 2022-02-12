@@ -1,8 +1,5 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://www.linkedin.com/in/rafaelechart/)
+[![Rafael's GitHub Banner](./assets/GitHubHeader.png)](https://www.linkedin.com/in/rafaelechart/)
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=blue&color=1CA2F1)](https://twitter.com/rafaelechart)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/rafaelechart/)
-[![CodePen Badge](https://img.shields.io/badge/Youtube-Profile-informational?style=flat&logo=youtube&logoColor=red&color=1CA2F1)](https://www.youtube.com/rafaelechart)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -35,36 +32,9 @@ Want to know more about me? [Check out my portfolio.](https://github.com/RafaelE
 
 
 
-## 📌 Pinned Repositories
-
-
-<a href="https://github.com/RafaelEchart/ModuleOne_Capstone">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelechart&repo=ModuleOne_Capstone&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/RafaelEchart/PersonalPortfolio">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelechart&repo=PersonalPortfolio&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-<br>
-
-<a href="https://github.com/RafaelEchart/ToDoList">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=rafaelechart&repo=ToDoList&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
-
-
-<br>
-<br>
-
 ## &#x1f4c8; GitHub Stats
 
-<br>
 
-<a href="https://github.com/rafaelechart">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelechart&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 
 <a href="https://github.com/rafaelechart">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=rafaelechart&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="RafaelEchart's GitHub Stats" />
@@ -74,7 +44,9 @@ Want to know more about me? [Check out my portfolio.](https://github.com/RafaelE
 <br>
 
 
-## 📣 How to contact me?
+### 📫 &nbsp; How to reach me:
 
-You can send me a message to any of my social media profiles or an email, I will love to hear from you!
-
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=blue&color=1CA2F1)](https://twitter.com/rafaelechart)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=1CA2F1)](https://www.linkedin.com/in/rafaelechart/)
+[![Gmail Bagde](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rafaelechartsaltos@gmail.com)
+[![Whatsapp Bagde](https://img.shields.io/badge/Whatsapp-00FF00?style=flat&logo=whatsapp&logoColor=white)](mailto:rafaelechartsaltos@gmail.com)
